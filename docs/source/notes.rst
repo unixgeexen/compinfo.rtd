@@ -1,16 +1,7 @@
-ProjectName Notes
-=====================================
+Computer Infrastructure Information Notes
+=========================================
 
 Introduction
 ************
-This site provides a starter set for a sphinx/RST site.  It provides basic structure and minimal content.
+Computer infrastructure related information.
 
-HowTo
-*****
-
-* Clone locally
-   * git clone starter/sphinx.rtd.minimal internal.sphinx.tw2
-* Update ProjectName and AuthorName in various .rst files
-
-Todo
-****

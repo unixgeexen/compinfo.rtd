@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Computer Infrastructure Information
-===================================
+Other
+==========
 
-Computer Infrastructure Information
+Other
 
 
 .. toctree::
@@ -14,10 +14,6 @@ Computer Infrastructure Information
    :glob:
    :caption: Contents:
 
-   notes
-   tools/index
-   hardware/index
-   operatingsystems/index
-   development/index
-   other/index
+   *
+   */index
 

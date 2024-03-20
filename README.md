@@ -1,3 +1,3 @@
-# Project Name
-Project Description
+# CompInfo
+CompInfo
 
