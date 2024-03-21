@@ -11,3 +11,4 @@ References
 Conversion
 ----------------
 * make notes about conversion tool discovered recently
+* /share/sites/tiddlywiki/twmigrator/info.md
